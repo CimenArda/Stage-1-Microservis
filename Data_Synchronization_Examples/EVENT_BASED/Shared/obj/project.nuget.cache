@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "ROigUfyS8yAiR1IKOjFc904EynHGVxYtk44fHtmncSjP8FM44cnJSghr0YyuMwBfGZjGR+B1DwPenmkfBRVQ2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arda1\\OneDrive\\Masaüstü\\Microservis\\Data_Synchronization_Examples\\EVENT_BASED\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arda1\\.nuget\\packages\\masstransit\\8.3.1\\masstransit.8.3.1.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\masstransit.abstractions\\8.3.1\\masstransit.abstractions.8.3.1.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\masstransit.rabbitmq\\8.3.1\\masstransit.rabbitmq.8.3.1.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\6.0.1\\microsoft.extensions.diagnostics.healthchecks.6.0.1.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\6.0.1\\microsoft.extensions.diagnostics.healthchecks.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

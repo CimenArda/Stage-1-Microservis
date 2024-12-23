@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qwTtbFbUSZXPasNgQe60srFQT2aUGi4CkVu0rXCAn58=",
+  "Source": "Service_A",
+  "BasePath": "_content/Service_A",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

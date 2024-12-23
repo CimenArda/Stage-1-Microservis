@@ -1,0 +1,14 @@
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\bin\Debug\net6.0\Service.exe
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\bin\Debug\net6.0\Service.runtimeconfig.json
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\bin\Debug\net6.0\Service.dll
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\obj\Debug\net6.0\Service.dll
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\obj\Debug\net6.0\Service.pdb
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\obj\Debug\net6.0\Service.genruntimeconfig.cache
+C:\Users\arda1\OneDrive\Masaüstü\Microservis\MicroservisArchitecture_CommunicationModels\Service\obj\Debug\net6.0\ref\Service.dll

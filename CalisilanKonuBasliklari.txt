@@ -1,0 +1,111 @@
+Bölüm 1:Mikroservis Nedir?
+
+- Mikroservis Nedir ? Syf 1
+- Dağıtılabilirlik Nedir ? Syf 1
+- Bir Yazılımın Ölçeklenebilirliği Ne Demektir ? Syf 2 
+- Ölçekleme Nasıl Gerçekleştirilir ? Syf 3
+- Yatay Ölçeklenebilirlik - Dikey Ölçeklenebilirlik Syf 3 
+- Bölümlendirme (Partitioning) - Önbellekleme (Caching) Syf 4
+- Mikroservislerin Temel Prensipleri Nelerdir ? Syf 5 - Syf 6
+- Mikroservisin Mantığı Nedir ? Syf 7
+- Monolitik Mimariye Karşı Mikroservis Mimarisinin Avantajları Nelerdir ?
+Syf 7 - Syf 8
+- Hangi Senaryolarda Mikroservis Mimarisi Tercih Edilmelidir Veya Edilmemelidir ? Syf 9 - Syf 10
+
+Bölüm 2:Temel Kavramlar | Organizasyon Modelleri | API Gateway
+
+- Mikroservis Mimarisi Temel Kavramlar Nelerdir ? Syf 11 -Syf 12
+- Mikroservis Organizasyon Modelleri Nelerdir ? Syf 13 -Syf 14
+- Mikroservislerde Servisler Arası İletişim(Veri İletişimi) Nasıl Gerçekleştirilir ? Syf 15 - Syf 16
+- Mikroservisler de Servisler Arası Veri İletişiminde API Gateway’in Görevi Nedir ? Syf 17 
+- API Gateway Nedir ? Syf 17 - Syf 18
+
+Bölüm 3:Tasarım İlkeleri ve Veritabanı Stratejileri
+
+- Bir Mikroservis Mimarisinin Tasarımı Nasıl Gerçekleştirilir ? Syf 19 -Syf 20
+- Mikroservis Mimarisinde Bir Servisin Sınırları Nasıl Belirlenir ? Syf 21 
+- Mikroservislerde Veritabanı Stratejileri Nelerdir ? Syf 22 - Syf 23 
+- Mikroservisler Kendi Aralarında Nasıl Veri Paylaşabilirler? Syf 24
+- Mikroservisler Kendi Aralarında Senkronizasyonu Nasıl Sağlarlar? Syf 25
+
+Bölüm 4:Servisler Arası İletişim Modelleri
+
+- Servisler Arası Senkron ve Asenkron İletişim Modelleri Nelerdir? Syf 26 - Syf 27
+- Senkron ve Asenkron İletişim Modellerine Örnek Senaryolar Syf27 - Syf28
+- Senkron ve Asenkron İletişim Süreçlerinde Hangi Yöntemler Kullanılır? Syf 29
+- HTTP RESTful API Üzerinden Senkron Haberleşme Örneği => Syf 30
+- gRPC Üzerinden Senkron Haberleşme Örneği Syf 31 - syf 32 - SYF 33
+- Message Broker(RabbitMQ) Üzerinden Asenkron Haberleşme Örneği Syf 34 - Syf 35 - Syf 36
+
+Bölüm 5 :Basit Düzeyde Mikroservis Çalışması
+
+-Bütün Çalışmalar Syf 37 den Syf 64
+-Yaptığımız Çalışmanın Olası Hata ve Eksikliklerini Kritik Edelim Syf 65
+
+
+Bölüm 6:Mikroservislerin İzlenmesi ve Metriklerin Toplanması​
+
+- Uygulama İzleme(Application Monitoring) Nedir? Neden Önemlidir? Syf 66
+- Mikroservisler'de İzleme ve Loglama Nasıl ve Hangi Yöntem/Yaklaşımlarla Yapılmalıdır? Syf 67
+- Mikroservisler'de Distributed Tracing'in Önemi! Syf 68
+
+Bölüm 7: Mikroservislerin Güvenliği​
+
+- Mikroservislerin Güvenliği Nasıl Sağlanır? Syf 69
+- Mikroservisler'de Kimlik Doğrulama ve Yetkilendirme 
+  -- Token Tabanlı Kimlik Doğrulama(JWT) Syf 70 
+  -- OAuth 2.0 Syf 71
+
+Bölüm 8:Servisler Arası Veri Tutarlılığı/Senkronizasyonu - Servis Odaklı Kritikler
+
+- Veri Senkronizasyonu Nedir? Neden Önemlidir? Syf 72
+- API Çağrıları - Pratik İnceleme Syf 73- Syf 79
+- Event-Driven(Olay Temelli) Mimariler - Pratik İnceleme Syf 80 Syf 86
+
+Bölüm 9 : CAP Teoremi 
+
+-  CAP Teoremi Nedir? Bize Ne Söylemektedir? Syf 87 Syf 88
+
+Bölüm 10:Eventual Consistency & Strong Consistency - Servis Odaklı Kritikler
+
+- Eventual Consistency Nedir? Syf 88 Syf 89 
+- Strong Consistency Nedir? Syf 89 Syf 90 
+- Eventual Consistency vs Strong Consistency Syf 90 
+- Kullanım Senaryoları Syf 91 
+
+Bölüm 11 :Strong Consistency | Two-Phase Commit(2PC) Protocol 
+
+Hepsi Syf 92 Syf 93
+- Two-Phase Commit(2PC) Protokolü Nedir? Nasıl Tasarlanır?
+- Prepare Phase (Hazırlık Aşaması)
+- Commit Phase (Taahhüt Aşaması)
+- Koordinatör & Katılımcı Ne Demektir?
+- Pratik Syf 93 Syf 106
+
+Bölüm 12:Eventual Consistency | Saga Pattern - Teorik Anlatım
+
+- Saga Pattern Nedir? Syf 107 
+- Saga'nın Amacı Nedir? Syf 107 
+- Saga Pattern - Eventual Consistency İlişkisi Syf 108 
+- Saga Pattern'ı Uygulama Yaklaşımları Syf 108 
+- Events/Choreography Implementasyonu Syf 108 Syf 109 
+- Events/Choreography Implementasyonunun Dezavantajları Syf 109
+- Command/Orchestration Implementasyonu & Simülasyonu Syf 110
+- Events/Choreography vs Command/Orchestration Syf 111
+
+Bölüm 13: Saga Pattern Pratikler
+| Saga Pattern - Choreography - Pratik Anlatım Syf 112 Syf 131 arası
+
+| Saga Pattern - Orchestration - Pratik Anlatım Syf 132 Syf 158 
+
+
+
+
+
+
+
+
+
+
+
+

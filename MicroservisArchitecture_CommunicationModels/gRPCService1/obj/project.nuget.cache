@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "UN+hN/kJFJvzdB0qaHeT3W0QQYSqJRzNgmIGxmEr28t3t0NiqqaPXIEbRQjJCTvRqBvi0jigjTXjwlDVAnJdzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arda1\\OneDrive\\Masaüstü\\Microservis\\MicroservisArchitecture_CommunicationModels\\gRPCService1\\gRPCService1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arda1\\.nuget\\packages\\google.protobuf\\3.28.3\\google.protobuf.3.28.3.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\grpc.core.api\\2.66.0\\grpc.core.api.2.66.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\grpc.net.client\\2.66.0\\grpc.net.client.2.66.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\grpc.net.common\\2.66.0\\grpc.net.common.2.66.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\grpc.tools\\2.67.0\\grpc.tools.2.67.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\arda1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
